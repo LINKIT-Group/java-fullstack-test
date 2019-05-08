@@ -63,10 +63,11 @@ By no means is the goal to get a solution covering all special cases in a 100% r
 At least the functionality that you deliver should be error free. What you implement and how you do it is subject to your creativity and ambition :-). Good luck!
 
 ## How do I submit it? ##
-* Create your branch and keep pushing your changes. 
-* Create and explain in a Markdown about your decisions in the process.
-* When it is done, let your LINKIT contact know about it via Pull Request.
+* Create your own private repository on Github.
+* Follow this markdown and commit your changes to it.
+* Do not forget to create and explain in a Markdown about your decisions in the process.
+* When it is done, let your LINKIT contact know about it. Share your repository with them.
 * Give instructions in a readme file so that anyone with a unix machine (Mac or any Linux Disto) could download the repo and run the service on their `localhost`.
 
 ### Who do I talk to? ###
-Your LINKIT contact or Repo owner/admin - **Rodrigo Soares Chaves** on rodrigo.chaves@linkit.nl
+Your LINKIT contact - the person who sent you these instructions.
